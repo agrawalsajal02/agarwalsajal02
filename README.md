@@ -4,7 +4,7 @@
 
 - 🔭 I have just create mern project related to social media for developers !
 - 🌱 I’m currently learning Java and practicing mern
-- 🥅 2020 Goals: Contribute more to Open Source projects and work on projects
+- 🥅 2020 Goals: Contribute more to Open Source projects and more fucusing on projects
 - ⚡ Fun fact: I am a Psycho . always welcome those who offer mid-night coffee🤣
 
 ### Spotify Playing 🎧
