@@ -28,10 +28,10 @@
 <br />
 
 <a href="https://github.com/agrawalsajal02">
-  <img align="center" src="https://github-readme-stats.sajalagarwal702.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.sajalagarwal702.vercel.app/api/top-langs/?username=agrawalsajal02&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/agrawalsajal02">
- <img align="center" src="https://github-readme-stats.sajalagarwal702.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.sajalagarwal702.vercel.app/api?username=agrawalsajal02&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <!-- <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.sajalagarwal702.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" /> -->
