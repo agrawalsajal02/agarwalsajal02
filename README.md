@@ -2,14 +2,11 @@
 
 ## I'm a Developer, Coder, Student !!
 
-- 🔭 I have just create mern project related to social media for developers !
-- 🌱 I’m currently learning Java and practicing mern
+- 🔭 I have just upskills my self in mern by doing project related to social media for developers !
+- 🌱 I’m currently working on another Mern Project that is Virtual hiring test Platform.
 - 🥅 2020 Goals: Contribute more to Open Source projects and more fucusing on projects
 - ⚡ Fun fact: I am a Psycho . always welcome those who offer mid-night coffee🤣
 
-### Spotify Playing 🎧
-
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
